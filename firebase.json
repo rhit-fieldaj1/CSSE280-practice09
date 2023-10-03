@@ -1,0 +1,32 @@
+{
+  "hosting": [{
+    "target": "english",
+    "public": "dist/intl",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  {
+    "target": "spanish",
+    "public": "dist/intl-es",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+    
+  },
+  {
+    "target": "french",
+    "public": "dist/intl-fr",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+    
+  }
+]
+}

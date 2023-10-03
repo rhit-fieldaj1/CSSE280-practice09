@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "default": "practice09-279f2"
+  },
+  "targets": {
+    "practice09-279f2": {
+      "hosting": {
+        "spanish": [
+          "es-practice09"
+        ],
+        "french": [
+          "fr-practice09"
+        ],
+        "english": [
+          "practice09-279f2"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
